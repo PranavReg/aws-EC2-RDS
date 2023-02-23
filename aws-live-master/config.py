@@ -1,0 +1,6 @@
+customhost = "demodb1.cvqs6ucakzld.us-east-1.rds.amazonaws.com"
+customuser = "user"
+custompass = "password"
+customdb = "demo"
+custombucket = "employeeimagespr"
+customregion = "us-east-1"
